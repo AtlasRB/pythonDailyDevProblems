@@ -1,0 +1,32 @@
+2. Sum of Two Numbers
+
+Let's tackle a basic math problem that's perfect for beginners. Here's what you need to do: 
+
+The Problem 
+
+Your task is to write a simple program. This program should ask for two numbers, then show you the total of these numbers. 
+
+Example 
+Input:
+5
+10
+Output:
+15
+
+Steps
+Ask the user for two numbers.
+Save these numbers in two spots.
+Add num1 and num2 together.
+Show the user the sum.
+
+Tips
+Make sure to change the user's input into numbers before adding them up.
+Show the result in a way that's easy for the user to understand.
+You can also check if the user actually entered numbers.
+
+This simple problem helps you practice getting information from the user, doing something with it, and then showing the result. It's a good step to get comfortable with before you dive into more complicated programming challenges!
+
+
+
+Date Started: 29/04/2024
+Date Completed: 29/04/2024
