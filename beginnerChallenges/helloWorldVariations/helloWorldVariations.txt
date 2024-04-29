@@ -1,0 +1,32 @@
+1. Hello World Variations
+
+The first program most people learn in a new programming language is the "Hello World" program. It's a simple code that shows the message "Hello World" on your screen. 
+
+Here are some easy and fun ways to change up the Hello World program: 
+
+Try It in a Different Language
+You can write "Hello World" in another language, like:
+Spanish - "Hola Mundo"
+French - "Bonjour le monde"
+Japanese - "Kon'nichiwa sekai"
+
+Make It About You
+Change "Hello World" to "Hello [Your Name]". Just replace [Your Name] with your actual name.
+
+Say More Than Hello
+Add a new line with to say "Hello World" and then "Have a nice day!" right after.
+
+Create a Picture You can also use letters and symbols to draw something like:
+*********     ***       *       *
+*       *   *     *    ***     * *
+*       *  *       *  *****   *   *
+*       *  *       *    *    *     *
+*       *  *       *    *   *       *  
+*       *  *       *    *    *     *
+*       *   *     *     *     *   *
+*********     ***       *       *
+
+Do It Over and Over
+Write a loop in your code to print "Hello World" 10 times.
+
+These ideas are just the start. You can try out different things and see what fun you can have with printing messages!
