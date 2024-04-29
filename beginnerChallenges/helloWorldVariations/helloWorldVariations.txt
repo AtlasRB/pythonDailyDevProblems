@@ -30,3 +30,8 @@ Do It Over and Over
 Write a loop in your code to print "Hello World" 10 times.
 
 These ideas are just the start. You can try out different things and see what fun you can have with printing messages!
+
+
+
+Date Started: 29/04/2024
+Dat Completed: 29/04/2024
