@@ -11,6 +11,10 @@ print("Japanese - Kon'nichiwa sekai \n")
 name = input("Enter your name: ")
 print("Hello " + name + "\n")
 
+#Say More Than Hello
+print("Hello World")
+print("Have a nice day")
+
 #Create a picture
 print("#   # ##### #     #       ###      #   #  ###  ####  #     ####  ")
 print("#   # #     #     #      #   #     # # # #   # #   # #     #   # ")
