@@ -1,5 +1,4 @@
-Completing code problems at the site:
-https://daily.dev/blog/fun-coding-problems-from-easy-to-hard
+# Python Daily.Dev Problems
+This project is to complete the code problems on https://daily.dev/blog/fun-coding-problems-from-easy-to-hard. The problems will be completed in the JavaScript language. I am also doing these problems in another project using the Python language.
 
-This project repository is to work through all of these problems using the python langauge.
-I will start at the easiest and work my way to the hardest.
+The webpage is built using react. It features a carousel navigational menu to look between the problems. The styling is done using Tailwind CSS.
